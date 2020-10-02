@@ -2,3 +2,8 @@ mat-form-field,
 textarea {
   width: 100%;
 }
+
+input,
+textarea {
+  height: 2rem;
+}
